@@ -1,0 +1,11 @@
+§7[§6§lLoginSystem§7]: §6Du §cmusst §6dich noch einloggen§7! §7/§6login §7[§6Passwort§7]
+§7[§6§lLoginSystem§7]: §aDu bist bereits eingeloggt§7!
+§7[§6§lLoginSystem§7]: §aErfolgreich eingeloggt§7!
+§7[§6§lLoginSystem§7]: §aErfolgreich Registriert§7!
+§7[§6§lLoginSystem§7]: §6Du §cmusst §6dich noch Registrieren§7! §7/§6register §7[§6Passwort§7] [§6Passwort§7]
+§7[§6§lLoginSystem§7]: §6Du bist §afrei§7, §6da du dich im Gamemode 3 befindest§7!
+§7[§6§lLoginSystem§7]: §6Du kannst dich §cnur §6im Gamemode 3 bewegen§7!
+
+
+
+

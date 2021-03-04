@@ -1,0 +1,7 @@
+§7[§6§lLoginSystem§7]: §6You §cneed §6to login§7! §7/§6login §7[§6Passwort§7]
+§7[§6§lLoginSystem§7]: §aYou are already logged in§7!
+§7[§6§lLoginSystem§7]: §aSuccessfully logged in§7!
+§7[§6§lLoginSystem§7]: §aSuccessfully registered§7!
+§7[§6§lLoginSystem§7]: §6You §cneed §6to register§7! §7/§6register §7[§6Passwort§7] [§6Passwort§7]
+§7[§6§lLoginSystem§7]: §6You are §afree§7, §6because you are in Gamemode 3§7!
+§7[§6§lLoginSystem§7]: §6You can §conly §6move in Gamemode 3§7!

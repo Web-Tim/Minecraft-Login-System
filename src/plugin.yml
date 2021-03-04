@@ -1,0 +1,12 @@
+name: LoginSystem
+author: Tim
+version: 1.4
+main: LoginSys.Main
+
+commands:
+  register:
+    description: Registriere dich! (Cracked)
+  login:
+    description: Logge dich ein! (Cracked)
+  language:
+    description: Switch the Language!
